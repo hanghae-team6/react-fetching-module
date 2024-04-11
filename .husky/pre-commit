@@ -1,0 +1,8 @@
+# ESLint를 실행하여 코드 검사
+echo "Running ESLint..."
+yarn lint
+
+
+# Vitest 실행하여 테스트
+echo "Running tests..."
+yarn test
